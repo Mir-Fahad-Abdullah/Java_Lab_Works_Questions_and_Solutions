@@ -1,0 +1,22 @@
+Useful links(Array)
+Intro:
+
+https://www.programiz.com/java-programming/arrays (Links to an external site.)
+
+ 
+
+User input:
+
+https://www.knowprogram.com/java/array-input-in-java/ (Links to an external site.)
+
+Passing array to a method:
+
+https://www.tutorialspoint.com/How-to-pass-Arrays-to-Methods-in-Java (Links to an external site.)
+
+ 
+
+Return array:
+
+ 
+
+https://www.tutorialspoint.com/How-to-return-an-array-from-a-method-in-Java

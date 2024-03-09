@@ -1,0 +1,7 @@
+Name: Fahad        ID: 2121572
+ENG 102     1.5     A
+ENG 111     3.0     B-
+POL 101     1.0     A-
+CEE 110     3.0     A
+SOC 101     0.0     A-
+Your CGPA: 3.51

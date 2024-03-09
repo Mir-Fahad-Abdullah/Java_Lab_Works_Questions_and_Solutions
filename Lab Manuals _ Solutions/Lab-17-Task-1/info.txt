@@ -1,0 +1,5 @@
+fahad 10 2.2
+abdullah 15 2.5
+ali 20 2.75
+mir 25 3.0
+mollah 30 3.3
